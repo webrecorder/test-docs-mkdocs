@@ -1,0 +1,7 @@
+site_name: Webrecorder MkDocs Trial
+site_url: https://example.com/webrecorder-mkdocs-trial
+nav:
+    - Home: index.md
+    - User Manual: user-manual.md
+    - Deployment: deployment.md
+theme: readthedocs
